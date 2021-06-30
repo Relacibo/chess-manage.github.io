@@ -1,0 +1,14 @@
+{
+  "name": "relacibo.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Relacibo/relacibo.github.io.git",
+  "author": "Reinhard Bronner <bronner_reinhard@t-online.de>",
+  "license": "MIT",
+  "scripts": {
+    "reload": "reload -b"
+  },
+  "devDependencies": {
+    "reload": "^3.2.0"
+  }
+}
